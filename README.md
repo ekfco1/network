@@ -3,4 +3,4 @@ Tutorial Repository
 
 201844049 문채영 B반
 
-2번
+1번 방문수령
